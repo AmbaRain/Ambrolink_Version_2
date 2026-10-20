@@ -1,0 +1,7 @@
+{
+  "name": "HavenEstates - Modern Real Estate",
+  "description": "Explore premium modern properties, architectural villas, and virtual property tours with HavenEstates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
